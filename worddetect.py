@@ -5,6 +5,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import cv2
 import streamlit as st
+import pip
+pip.install('./ocr')
+import ocr
 
 # sys.path.append(r'C:\Users\MOHD AREEF\RESEARCH&DEV\EMAGIA\OCR\handwriting-ocr\src')
   
